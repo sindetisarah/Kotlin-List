@@ -22,8 +22,8 @@ fun main(){
        PersonObject("SaraI",19,20.00),
        PersonObject("Sindeti",20,40.00)
    ))
-   var final= personObject.plus(new)
-    println(final)
+   var finalList= personObject.plus(new)
+    println(finalList)
 
 
     println(avgMileage(listOf(
